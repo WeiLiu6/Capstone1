@@ -1,0 +1,5 @@
+Project Proposal
+
+According to the American Association Poison Control Center(AAPCC)¡¯s annual report, there were over 6000 people poisoned by poisonous mushroom per year over the past decade in U.S. The tricky thing about poisonous mushroom is, there is no simple rule to identify them from the non-poisonous ones by their outlook. Hence even experienced mushroom hunters may mistake a poisonous mushroom from the wild.
+The object of the project is to find out if it is possible to identify the poisonous mushroom by the outlook. It will be using the mushroom data set from UCI¡¯s machine learning repository. 
+Hopefully, the result of this project can help mushroom hunters, survivalist or whoever likes to add wild mushrooms to the dining table to avoid poisonous mushrooms.
