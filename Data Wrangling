@@ -1,0 +1,2 @@
+The mushroom data set is already clean, all the variables are catagorical. And the only column with missing data is the 'stalk-root',
+there is 2480 missing data, and all of which marked as '?'. At this point, I do not see the need to turn them into other values.
