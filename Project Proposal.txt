@@ -1,5 +1,28 @@
 Project Proposal
 
-According to the American Association Poison Control Center(AAPCC)¡¯s annual report, there were over 6000 people poisoned by poisonous mushroom per year over the past decade in U.S. The tricky thing about poisonous mushroom is, there is no simple rule to identify them from the non-poisonous ones by their outlook. Hence even experienced mushroom hunters may mistake a poisonous mushroom from the wild.
-The object of the project is to find out if it is possible to identify the poisonous mushroom by the outlook. It will be using the mushroom data set from UCI¡¯s machine learning repository. 
-Hopefully, the result of this project can help mushroom hunters, survivalist or whoever likes to add wild mushrooms to the dining table to avoid poisonous mushrooms.
+1. The Aiming Problem
+
+According to the American Association Poison Control Center(AAPCC)'s annual report, there were over 6000 people poisoned by poisonous mushroom per year over the past decade in U.S. The tricky thing about poisonous mushroom is, there is no simple rule to identify them from the non-poisonous ones by their outlook. Hence even experienced mushroom hunters may mistake a poisonous mushroom from the wild.
+The objective of the project is to find out if it is possible to identify the poisonous mushroom by the outlook and odor. 
+
+2. The Clients
+
+The aiming clients of the project is professional/amateur mushroom hunters, survivalist and anyone who would like to put wild mushroom onto their dining tables but not sure about its edibilty.
+
+3. The Data Set
+
+It will be using the mushroom data set from UCI's machine learning repository.
+
+4. The approach
+
+The mushroom data set is quite clean already, thus not much cleaning is required. 
+The second step is to run the chi-square test between the target variable and all the input variables, so that to find out the varibles with the strongest and weakest association between the targe varible.
+Then, to use machine learning to establish the model.
+
+5. The deliverables
+
+The outcome of the project would be a programme takes the description of any mushroom(such as outlook, sizes,order etc.) as input, and output the mushroom's edibility(edible, poisonous).
+
+
+
+
